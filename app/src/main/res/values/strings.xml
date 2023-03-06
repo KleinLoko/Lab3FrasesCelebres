@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab 3 Frases Celebres</string>
+    <string name="tituloApp">Frases Celebres</string>
+    <string name="numeroAleatorioValor">1</string>
+    <string name="nombreButtonGenerador">Generar No.</string>
+    <string name="nombreButtonFrase">Mostrar Frase</string>
+
+    <string name="autor1"><b>Platón</b></string>
+    <string name="autor2"><b>Socrates</b></string>
+    <string name="autor3"><b>Epicuro</b></string>
+
+    <string name="frase1">El que aprende y aprende y no practica lo que sabe, es como el que ara y ara  y no siembra</string>
+    <string name="frase2">La verdadera sabiduría está en reconocer la propia ignorancia</string>
+    <string name="frase3">Nada es suficiente para quien lo suficiente es poco</string>
+    <string name="imagenAutor">imagen del autor</string>
+</resources>
